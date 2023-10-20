@@ -1,0 +1,31 @@
+.input-field{
+    display:block;
+
+    margin:10px;
+    height:28px;
+
+    width:400px;
+
+}
+.btn{
+
+    background-color: skyblue;
+    color:white;
+    border:0;
+    width: 400px;
+    margin: 12px;
+
+    padding: 13px;
+
+    border-radius: 5px;
+    cursor: pointer;
+}
+.add-user{
+    margin-top: 100px;
+    text-align: -webkit-center;
+
+}
+.user-item span{
+    display: inline-block;
+    width: 100px;
+}
